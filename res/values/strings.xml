@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">NYC Parks Events</string>
+
+    <!--  Menu items -->
+    <string name="settings">Settings</string>
+    <string name="refresh">Refresh</string>
+
+    <!--  NetworkActivity -->
+    <string name="page_title">NYC Parks Public Events - Upcoming 14 Days</string>
+    <string name="updated">Last updated:</string>
+    <string name="lost_connection">Lost connection.</string>
+    <string name="wifi_connected">Wi-Fi reconnected.</string>
+    <string name="connection_error">Unable to load content. Check your network connection.</string>
+    <string name="xml_error">Error parsing XML.</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_single_list_item">SingleListItemActivity</string>
+    <string name="title_activity_details">Details</string>
+
+<!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="title_activity_main">MainActivity</string>
+</resources>
